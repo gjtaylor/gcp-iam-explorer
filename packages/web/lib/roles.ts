@@ -1,6 +1,6 @@
 import _ from "lodash";
 import { specialRoleNames } from "../constants";
-import roles from "../roles.json";
+import roles from "../../batch/roles.json";
 
 export { roles };
 
